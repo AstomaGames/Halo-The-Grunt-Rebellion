@@ -1,0 +1,2 @@
+highcalative = true
+instance_deactivate_object(obj_highcalspawn)
